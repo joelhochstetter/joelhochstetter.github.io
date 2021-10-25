@@ -1,9 +1,9 @@
 ---
-permalink: /
+permalink: /about
 layout: page
 title: About
 redirect_from:
-  - /about
+  - /
 ---
 
 I'm passionate about using tools and ideas from Physics, Mathematics and Computing to tackle challenging interdisciplinary scientific problems.
