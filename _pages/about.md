@@ -6,9 +6,12 @@ redirect_from:
   - /
 ---
 
-I'm passionate about using tools and ideas from Physics, Mathematics and Computing to tackle challenging interdisciplinary scientific problems.
+I am motivated by playing a small part in working to create a better future for us all.
 
-I am a PhD student in the Department of Applied Mathematics and Theoretical Physics and the Gurdon Institute at the University of Cambridge, where I work with Professor Ben Simons on theoretical biological physics. I'm interested in self-organization and non-equilbrium dynamics in renewal and development of biological tissues. My interests lie in theory and modelling of many-body interacting systems, but I thrive in close collaboration with experiments. Currently I'm working on how squamous tissues (e.g. skin / oesephegus) use mechanical and chemical feedback to maintain homeostasis.
+In my research, I use tools from statistical physics, dynamical systems and AI to solve important fundamental questions in stem cell biology, which have the potential to help develop transformative technologies in regenerative medicine.
 
-Previously, I completed a Bachelor of Science in Physics at the University of New South Wales, where I completed undergraduate projects spanning from Quantum Physics to DNA nanotechnology. More recently, I did an Honours year and MPhil in Physics student at the University of Sydney. My research focussed on modelling the fascinating electrical switching dynamics of 'neuromorphic' nanowire networks.
+Science has become about playing a game and fighting for limited resources, instead of dreaming big, working together on our visions that will change and transform reality. I believe scientists all care about entrepreneurship and culture. Improving the world for us is the only way to create a betting world for all. 
 
+Sciences needs a broader diversity of structures or organisations, small and large. By finding better ways to collaborate we can focus on solving the most pressing issues in society while protecting more independent workers and thinkers.
+
+I believe that everyone should care about culture and society. To this end, I've started a blog (https://collectivescience.substack.com) and will soon launch a collaborative project in this space with my friends.
