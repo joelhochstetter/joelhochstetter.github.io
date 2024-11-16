@@ -12,8 +12,10 @@ In my research, I use tools from statistical physics, dynamical systems and AI t
 
 Science has become about playing a game and fighting for limited resources, instead of dreaming big, working together on our visions that will change and transform reality. 
 
-I believe scientists all care about entrepreneurship and culture. Fighting to improve the world for us is the only way to create a betting world for all. 
+I believe scientists all care about entrepreneurship and culture. Fighting to improve our world and organisations is the only way to create a betting world for all. 
 
-Sciences needs a broader diversity of structures or organisations, small and large. By finding better ways to collaborate we can focus on solving the most pressing issues in society while protecting more independent workers and thinkers.
+Science needs a broader diversity of structures or organisations, small and large. By finding better ways to collaborate we can focus on solving the most pressing issues in society while protecting more independent workers and thinkers.
 
-I believe that everyone should care about culture and society. To this end, I've started a blog (https://collectivescience.substack.com) and will soon launch a fun, collaborative project in this space with my friends.
+Beyond being a scientist, I believe that everyone should care about culture and society. To this end, I've started a blog (https://collectivescience.substack.com) and will soon launch a fun, collaborative project in this space with my friends to discuss topics that matter.
+
+I'm happy to chat with likeminded people, a link to my email is below.
